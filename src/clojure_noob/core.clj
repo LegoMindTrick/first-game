@@ -42,6 +42,6 @@
   (def hero (mkhero name weapon))
   (println "your hero is " hero)
   (def monster (mkmonster))
-  (println "you are fighting a " monster "(until your doom)")
+  (println "you are battling a " monster "(until your doom)")
   (fight hero monster)
   )
