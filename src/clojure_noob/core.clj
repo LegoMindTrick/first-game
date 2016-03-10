@@ -7,7 +7,7 @@
                 (hero :weapon)
                 "!")))
 
-(def monstertypes ["ogre" "troll" "blastended skrewt"])
+(def monstertypes ["ogre" "troll" "blastended skrewt" "manticore"])
 
 (defn mkhero [name weapon] {:name name
                             :weapon weapon
